@@ -1,4 +1,4 @@
-# udacity
+# udacity/data analyst nanondegree
 
 ### About
 This repository details some of the projects I completed as part of Udacity's Data Analyst Nanodegree
